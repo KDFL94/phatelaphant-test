@@ -1,0 +1,144 @@
+{
+    "id": "uuid-1",
+    "name": "Webprovise Corp",
+    "cost": 52983,
+    "children": [
+        {
+            "id": "uuid-2",
+            "name": "Stamm LLC",
+            "cost": 1429,
+            "parentId": "uuid-1",
+            "children": [
+                {
+                    "id": "uuid-4",
+                    "name": "Price and Sons",
+                    "cost": 1340,
+                    "parentId": "uuid-2",
+                    "children": []
+                },
+                {
+                    "id": "uuid-7",
+                    "name": "Zieme - Mills",
+                    "cost": 1636,
+                    "parentId": "uuid-2",
+                    "children": []
+                },
+                {
+                    "id": "uuid-19",
+                    "name": "Schneider - Adams",
+                    "cost": 794,
+                    "parentId": "uuid-2",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": "uuid-3",
+            "name": "Blanda, Langosh and Barton",
+            "cost": 3847,
+            "parentId": "uuid-1",
+            "children": [
+                {
+                    "id": "uuid-5",
+                    "name": "Hane - Windler",
+                    "cost": 1288,
+                    "parentId": "uuid-3",
+                    "children": []
+                },
+                {
+                    "id": "uuid-6",
+                    "name": "Vandervort - Bechtelar",
+                    "cost": 2512,
+                    "parentId": "uuid-3",
+                    "children": []
+                },
+                {
+                    "id": "uuid-9",
+                    "name": "Kuhic - Swift",
+                    "cost": 3086,
+                    "parentId": "uuid-3",
+                    "children": []
+                },
+                {
+                    "id": "uuid-17",
+                    "name": "Rohan, Mayer and Haley",
+                    "cost": 4072,
+                    "parentId": "uuid-3",
+                    "children": []
+                },
+                {
+                    "id": "uuid-20",
+                    "name": "Kunde, Armstrong and Hermann",
+                    "cost": 908,
+                    "parentId": "uuid-3",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": "uuid-8",
+            "name": "Bartell - Mosciski",
+            "cost": 2605,
+            "parentId": "uuid-1",
+            "children": [
+                {
+                    "id": "uuid-10",
+                    "name": "Lockman Inc",
+                    "cost": 4288,
+                    "parentId": "uuid-8",
+                    "children": []
+                },
+                {
+                    "id": "uuid-11",
+                    "name": "Parker - Shanahan",
+                    "cost": 2872,
+                    "parentId": "uuid-8",
+                    "children": [
+                        {
+                            "id": "uuid-12",
+                            "name": "Swaniawski Inc",
+                            "cost": 2110,
+                            "parentId": "uuid-11",
+                            "children": []
+                        },
+                        {
+                            "id": "uuid-14",
+                            "name": "Weimann, Runolfsson and Hand",
+                            "cost": 7254,
+                            "parentId": "uuid-11",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "uuid-13",
+                    "name": "Balistreri - Bruen",
+                    "cost": 1686,
+                    "parentId": "uuid-8",
+                    "children": []
+                },
+                {
+                    "id": "uuid-15",
+                    "name": "Predovic and Sons",
+                    "cost": 4725,
+                    "parentId": "uuid-8",
+                    "children": []
+                },
+                {
+                    "id": "uuid-16",
+                    "name": "Weissnat - Murazik",
+                    "cost": 3277,
+                    "parentId": "uuid-8",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "id": "uuid-18",
+            "name": "Walter, Schmidt and Osinski",
+            "cost": 2033,
+            "parentId": "uuid-1",
+            "children": []
+        }
+    ]
+}
